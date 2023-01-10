@@ -1,1 +1,5 @@
-remote_theme: urban-theme
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Portfolio
+description: Sergi Bonell's game portfolio
