@@ -1,4 +1,4 @@
-remote_theme: lenpaul/Millennial
+remote_theme: lenpaul/Millennial@v2.0.0
 plugins:
 - jekyll-remote-theme
 title: Portfolio
